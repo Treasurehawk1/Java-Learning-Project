@@ -9,7 +9,7 @@ public class Main {
 		float f = 2.718f; // must add the f for a float
 		double d = 2.718; // don't need to add anything for double
 		char symbol = '@';
-		String name = "Phteven";
+		String name = "Steven";
 		int y = 123; //initialization
 		
 		System.out.println("my character is: " + symbol);
